@@ -1,0 +1,19 @@
+﻿  Source.cpp
+c:\users\владислав\documents\visual studio 2015\projects\win32project2\win32project2\bufshow.h(8): warning C4584: Geometrical_Buffer: базовый класс "Base_Graphic" уже является базовым классом для "Rectangle_Graphic"
+  c:\users\владислав\documents\visual studio 2015\projects\win32project2\win32project2\baseheader.h(4): note:  см. объявление "Base_Graphic"
+  c:\users\владислав\documents\visual studio 2015\projects\win32project2\win32project2\geometricobjectheader.h(4): note:  см. объявление "Rectangle_Graphic"
+c:\users\владислав\documents\visual studio 2015\projects\win32project2\win32project2\bufshow.h(49): warning C4101: BUFY2: неиспользованная локальная переменная
+c:\users\владислав\documents\visual studio 2015\projects\win32project2\win32project2\bufshow.h(49): warning C4101: BUFY1: неиспользованная локальная переменная
+c:\users\владислав\documents\visual studio 2015\projects\win32project2\win32project2\bufshow.h(49): warning C4101: BUFX2: неиспользованная локальная переменная
+c:\users\владислав\documents\visual studio 2015\projects\win32project2\win32project2\source.cpp(46): warning C4244: return: преобразование "WPARAM" в "int", возможна потеря данных
+c:\users\владислав\documents\visual studio 2015\projects\win32project2\win32project2\source.cpp(57): warning C4101: Line: неиспользованная локальная переменная
+c:\users\владислав\documents\visual studio 2015\projects\win32project2\win32project2\source.cpp(57): warning C4101: elipse: неиспользованная локальная переменная
+c:\users\владислав\documents\visual studio 2015\projects\win32project2\win32project2\source.cpp(53): warning C4101: ps: неиспользованная локальная переменная
+c:\users\владислав\documents\visual studio 2015\projects\win32project2\win32project2\source.cpp(54): warning C4101: point: неиспользованная локальная переменная
+c:\users\владислав\documents\visual studio 2015\projects\win32project2\win32project2\source.cpp(57): warning C4101: circle: неиспользованная локальная переменная
+c:\users\владислав\documents\visual studio 2015\projects\win32project2\win32project2\source.cpp(57): warning C4101: rect: неиспользованная локальная переменная
+c:\users\владислав\documents\visual studio 2015\projects\win32project2\win32project2\source.cpp(57): warning C4101: Triangle: неиспользованная локальная переменная
+c:\users\владислав\documents\visual studio 2015\projects\win32project2\win32project2\source.cpp(204): warning C4715: WndProc: значение возвращается не при всех путях выполнения
+c:\users\владислав\documents\visual studio 2015\projects\win32project2\win32project2\bufshow.h(100): warning C4715: Geometrical_Buffer::Get_elementUPP: значение возвращается не при всех путях выполнения
+  Win32Project2.vcxproj -> C:\Users\Владислав\Documents\Visual Studio 2015\Projects\Win32Project2\x64\Debug\Win32Project2.exe
+  Win32Project2.vcxproj -> C:\Users\Владислав\Documents\Visual Studio 2015\Projects\Win32Project2\x64\Debug\Win32Project2.pdb (Full PDB)

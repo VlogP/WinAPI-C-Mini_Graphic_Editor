@@ -1,0 +1,16 @@
+﻿  Source.cpp
+Source.cpp(42): warning C4244: return: преобразование "WPARAM" в "int", возможна потеря данных
+Source.cpp(53): warning C4101: Line: неиспользованная локальная переменная
+Source.cpp(53): warning C4101: elipse: неиспользованная локальная переменная
+Source.cpp(49): warning C4101: ps: неиспользованная локальная переменная
+Source.cpp(50): warning C4101: point: неиспользованная локальная переменная
+Source.cpp(53): warning C4101: circle: неиспользованная локальная переменная
+Source.cpp(53): warning C4101: rect: неиспользованная локальная переменная
+Source.cpp(53): warning C4101: Triangle: неиспользованная локальная переменная
+  Создание кода
+  0 of 25 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Win32Project2.vcxproj -> C:\Users\Владислав\Documents\Visual Studio 2015\Projects\Win32Project2\x64\Release\Win32Project2.exe
+  Win32Project2.vcxproj -> C:\Users\Владислав\Documents\Visual Studio 2015\Projects\Win32Project2\x64\Release\Win32Project2.pdb (Full PDB)
